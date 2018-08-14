@@ -5,6 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Folder Include="App_Data\Solutions\Example\Build1" />
         <Folder Include="wwwroot\" />
     </ItemGroup>
 
